@@ -11,5 +11,6 @@ public class UnitTest1
 
         //Assert
         num.Should().Be(2);
+        num.Should().Be(1);
     }
 }
