@@ -1,0 +1,15 @@
+C:\Users\Nicky\desktop\BDSA-A0\bin\Debug\net6.0\BDSA-A0.exe
+C:\Users\Nicky\desktop\BDSA-A0\bin\Debug\net6.0\BDSA-A0.deps.json
+C:\Users\Nicky\desktop\BDSA-A0\bin\Debug\net6.0\BDSA-A0.runtimeconfig.json
+C:\Users\Nicky\desktop\BDSA-A0\bin\Debug\net6.0\BDSA-A0.dll
+C:\Users\Nicky\desktop\BDSA-A0\bin\Debug\net6.0\BDSA-A0.pdb
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.csproj.AssemblyReference.cache
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.AssemblyInfoInputs.cache
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.AssemblyInfo.cs
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.csproj.CoreCompileInputs.cache
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.dll
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\refint\BDSA-A0.dll
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.pdb
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\BDSA-A0.genruntimeconfig.cache
+C:\Users\Nicky\desktop\BDSA-A0\obj\Debug\net6.0\ref\BDSA-A0.dll
